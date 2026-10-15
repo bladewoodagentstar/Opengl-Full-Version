@@ -267,4 +267,4 @@ This repository serves as the official landing page for OpenGL. The software is 
 **Get the most recent version of OpenGL today!**
 
 ---
-**Last updated:** 2026-10-14 22:44:18 UTC
+**Last updated:** 2026-10-15 00:59:41 UTC
